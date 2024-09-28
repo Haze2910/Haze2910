@@ -1,4 +1,4 @@
-Software Developer and ML enthusiast
+Software/Game Developer and ML enthusiast
 
 
 **Coding Languages:**\
