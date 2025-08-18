@@ -10,3 +10,6 @@ Software/Game Developer and ML enthusiast
 ![PyTorch](https://img.shields.io/badge/PyG-3C2179?style=for-the-badge&logo=pyg&logoColor=white) 
 ![Lightning](https://img.shields.io/badge/Lightning-792DE4?style=for-the-badge&logo=pytorch-lightning&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFBA00?style=for-the-badge&logo=hf&logoColor=white)
+
+**Stats:**\
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Haze2910&theme=dark-minimalist&border_radius=10" alt="GitHub Streak" /></a>
